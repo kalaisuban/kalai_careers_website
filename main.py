@@ -13,6 +13,12 @@ JOBS=[
     'title':'Data Scientist',
     'location':'Delhi, India',
     'salary': 'Rs. 15,00,000'
+  },
+  {
+    'id':3,
+    'title':'Frontend Engineer',
+    'location':'Salem,India',
+    'salary':'Rs. 13,00,0000'
   }
 ]
 # company_name="Kalai"
